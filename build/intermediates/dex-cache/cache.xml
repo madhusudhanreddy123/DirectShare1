@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\a5d5ad72b0455d2429fa198b9971bef76c7b1391\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64ff2fcc340377a2496c909a7f90d58d4e403c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\1caf4424438334cc7fecf9c23285b859d74e4a48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e39bcab2d4ce16092e26323035cf989a7e02d75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_7be897a72b05c78682d2e18f196025cabdec10ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7dc5f9c6d9dd5ab28eb3c3d2ebf81bc6cb8db1d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_c0577690a5cad75df2a6835cedabc47c18d45503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\2674068c86904c7bffb91018afef9a897f36fc33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_218b2f51f11d248ad42245266c2cdab09cf45cab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\19d3cdbc45dabcf6bd93ef1f1d4a766652c1aa22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8404c4cd88d3d1f389278807f8519df62cdcbeec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\8e1d2f3e64fdafb36a152bbc93d096d93bd7f6ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b116cb8f0285424055928efc52e690715019f63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\9acc5a48f92d2790684e83400aa2d383da2dde10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5aadbd8a7fb32645fee03aa140c0e8c9054ea1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\22de3a7a468c9224a9335294bb84e53edcdf9891\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1babebbff53d5ba625dd5db26fa626dec27203de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_67d41cb02d01aceccfd18ad381b0f86e2e37375e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\05b90313121b8765c415652841cfd1a0b5177046\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32b72e8253a4c476613ff01e4493bedb3b1eba57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\a21ca199d778448c28b80c51f9f76562f54b8139\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b61e8373c93d9c8d7054145ed409ef2f924dbf6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42816bbb3543d8c30fc3ab8b48196bcc07dbc9eb">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d7edf055cd268cf38142021af91d371540281cec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\6338aed65db1d208b10f1ad97cd12b277c8b5617\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1586a189dd01dadaddbaa2565dd421e8ea7d317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\047c73eeae4cd4db12e6ea2910dd0489956a4ba9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_394192ef2483e061a2b558f66622131974077d95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Siddu\.android\build-cache\8c96650682ab423e1d18b96576eab595c44cf246\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5815aff35eebedf559c2c1b1a3f6f81acf6b702a\classes.dex" />
+    </item>
+
+</items>

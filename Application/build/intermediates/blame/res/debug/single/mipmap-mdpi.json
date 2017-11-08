@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Siddu\\AndroidStudioProjects\\DirectShare1\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\logo_avatar.png",
+        "source": "C:\\Users\\Siddu\\AndroidStudioProjects\\DirectShare1\\Application\\src\\main\\res\\mipmap-mdpi\\logo_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Siddu\\AndroidStudioProjects\\DirectShare1\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Siddu\\AndroidStudioProjects\\DirectShare1\\Application\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

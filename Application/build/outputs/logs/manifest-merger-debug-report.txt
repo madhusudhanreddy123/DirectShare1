@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:17:1-67:12
+	package
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:18:5-46
+	android:versionName
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:22:5-65:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\Siddu\.android\build-cache\6338aed65db1d208b10f1ad97cd12b277c8b5617\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Siddu\.android\build-cache\19d3cdbc45dabcf6bd93ef1f1d4a766652c1aa22\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Siddu\.android\build-cache\9acc5a48f92d2790684e83400aa2d383da2dde10\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Siddu\.android\build-cache\047c73eeae4cd4db12e6ea2910dd0489956a4ba9\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Siddu\.android\build-cache\22de3a7a468c9224a9335294bb84e53edcdf9891\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Siddu\.android\build-cache\1caf4424438334cc7fecf9c23285b859d74e4a48\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Siddu\.android\build-cache\2674068c86904c7bffb91018afef9a897f36fc33\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Siddu\.android\build-cache\a5d5ad72b0455d2429fa198b9971bef76c7b1391\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Siddu\.android\build-cache\8c96650682ab423e1d18b96576eab595c44cf246\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Siddu\.android\build-cache\8e1d2f3e64fdafb36a152bbc93d096d93bd7f6ca\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Siddu\.android\build-cache\05b90313121b8765c415652841cfd1a0b5177046\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Siddu\.android\build-cache\a21ca199d778448c28b80c51f9f76562f54b8139\output\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:24:9-43
+	android:theme
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:26:9-48
+activity#com.example.android.directshare.MainActivity
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:28:9-35:20
+	android:label
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:29:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:33:27-74
+activity#com.example.android.directshare.SendMessageActivity
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:37:9-49:20
+	android:label
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:39:13-45
+	android:theme
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:40:13-58
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:38:13-48
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.SEND
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:43:27-73
+data
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:44:17-55
+	android:mimeType
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:44:23-52
+meta-data#android.service.chooser.chooser_target_service
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:46:13-48:63
+	android:value
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:48:17-60
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:47:17-78
+activity#com.example.android.directshare.SelectContactActivity
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:51:9-54:61
+	android:label
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:53:13-45
+	android:theme
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:54:13-58
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:52:13-50
+service#com.example.android.directshare.SampleChooserTargetService
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:56:9-63:19
+	android:label
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:58:13-45
+	android:permission
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:59:13-80
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:57:13-55
+intent-filter#android.service.chooser.ChooserTargetService
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:60:13-62:29
+action#android.service.chooser.ChooserTargetService
+ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:61:17-87
+	android:name
+		ADDED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml:61:25-84
+uses-sdk
+INJECTED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\Siddu\.android\build-cache\6338aed65db1d208b10f1ad97cd12b277c8b5617\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Siddu\.android\build-cache\19d3cdbc45dabcf6bd93ef1f1d4a766652c1aa22\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Siddu\.android\build-cache\9acc5a48f92d2790684e83400aa2d383da2dde10\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Siddu\.android\build-cache\047c73eeae4cd4db12e6ea2910dd0489956a4ba9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Siddu\.android\build-cache\22de3a7a468c9224a9335294bb84e53edcdf9891\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Siddu\.android\build-cache\1caf4424438334cc7fecf9c23285b859d74e4a48\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Siddu\.android\build-cache\2674068c86904c7bffb91018afef9a897f36fc33\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Siddu\.android\build-cache\a5d5ad72b0455d2429fa198b9971bef76c7b1391\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Siddu\.android\build-cache\8c96650682ab423e1d18b96576eab595c44cf246\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Siddu\.android\build-cache\8e1d2f3e64fdafb36a152bbc93d096d93bd7f6ca\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Siddu\.android\build-cache\05b90313121b8765c415652841cfd1a0b5177046\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Siddu\.android\build-cache\a21ca199d778448c28b80c51f9f76562f54b8139\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\Siddu\.android\build-cache\6338aed65db1d208b10f1ad97cd12b277c8b5617\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Siddu\AndroidStudioProjects\DirectShare1\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] C:\Users\Siddu\.android\build-cache\6338aed65db1d208b10f1ad97cd12b277c8b5617\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Siddu\.android\build-cache\19d3cdbc45dabcf6bd93ef1f1d4a766652c1aa22\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Siddu\.android\build-cache\9acc5a48f92d2790684e83400aa2d383da2dde10\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Siddu\.android\build-cache\047c73eeae4cd4db12e6ea2910dd0489956a4ba9\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Siddu\.android\build-cache\22de3a7a468c9224a9335294bb84e53edcdf9891\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Siddu\.android\build-cache\1caf4424438334cc7fecf9c23285b859d74e4a48\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Siddu\.android\build-cache\2674068c86904c7bffb91018afef9a897f36fc33\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Siddu\.android\build-cache\a5d5ad72b0455d2429fa198b9971bef76c7b1391\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Siddu\.android\build-cache\8c96650682ab423e1d18b96576eab595c44cf246\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Siddu\.android\build-cache\8e1d2f3e64fdafb36a152bbc93d096d93bd7f6ca\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Siddu\.android\build-cache\05b90313121b8765c415652841cfd1a0b5177046\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\Siddu\.android\build-cache\6338aed65db1d208b10f1ad97cd12b277c8b5617\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\Siddu\.android\build-cache\6338aed65db1d208b10f1ad97cd12b277c8b5617\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Siddu\.android\build-cache\a21ca199d778448c28b80c51f9f76562f54b8139\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Siddu\.android\build-cache\a21ca199d778448c28b80c51f9f76562f54b8139\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Siddu\.android\build-cache\a21ca199d778448c28b80c51f9f76562f54b8139\output\AndroidManifest.xml:26:13-58

@@ -1,0 +1,4 @@
+#Wed Nov 08 18:08:14 IST 2017
+base.0=C\:\\Users\\Siddu\\AndroidStudioProjects\\DirectShare1\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Siddu\\AndroidStudioProjects\\DirectShare1\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
